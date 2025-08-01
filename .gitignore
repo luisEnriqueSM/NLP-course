@@ -1,1 +1,6 @@
 env/
+dataset/
+# Ignorar checkpoints de Jupyter Notebook
+**/.ipynb_checkpoints/
+# Configuración local de Jupyter
+.jupyter/
